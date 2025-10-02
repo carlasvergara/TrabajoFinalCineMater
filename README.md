@@ -1,2 +1,9 @@
-# TrabajoFinalCinema
-Repositorio del trabajo final del curso de algoritmia y programación 2025-2 UdeA
+# *TrabajoFinal*
+## ** Cinema Alma Mater **
+### Integrantes
+* Carlas
+>* Descripción de Carlas - gustos...
+
+### Vinculos académicos y descripción 
+>* Estudiante UdeA de ingeniería industrial. habilidades y fortalezas ...
+
