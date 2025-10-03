@@ -51,6 +51,6 @@
 
 ---
 
-**Firma del convocante:** ___________________________  
+**Firma del convocante:** Carlas Andrea Veragara Romero 
 
 
