@@ -45,8 +45,8 @@
 
 ##  Participantes Convocados  
 
-Nombre Andrés Camilo Cataño  
-Nombre Isabella Pino Mosquera
+Nombre: Andrés Camilo Cataño  
+Nombre: Isabella Pino Mosquera
 
 
 ---
