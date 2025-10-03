@@ -1,6 +1,6 @@
 #  Acta de Convocatoria de Reunión  
 
-**Proyecto:** Cinema Universitario  
+**Proyecto:** Cinema Universitario Alma Máter
 **Fecha de Convocatoria:** 29 de septiembre de 2025  
 **Hora:** 5:00 pm  
 **Medio:** Presencial  
