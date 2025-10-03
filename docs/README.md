@@ -1,6 +1,6 @@
 # Repositorio de documentación 
 # *TrabajoFinal*
-## ** Cinema Alma Mater ** ##
+## ** Cinema Alma Mater 
 ### Integrantes
 * Carlas
 >* Descripción de Carlas - gustos...
