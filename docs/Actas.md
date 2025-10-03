@@ -1,4 +1,4 @@
-# 📑 Acta de Convocatoria de Reunión  
+#  Acta de Convocatoria de Reunión  
 
 **Proyecto:** Cinema Universitario  
 **Fecha de Convocatoria:** 29 de septiembre de 2025  
@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Orden del Día  
+## Orden del Día  
 
 1. Bienvenida y presentación de los participantes  
    - Breve introducción de cada integrante  
@@ -45,9 +45,9 @@
 
 ## 👥 Participantes Convocados  
 
-- [ ] Nombre _____________________ (Rol)  
-- [ ] Nombre _____________________ (Rol)  
-- [ ] Nombre _____________________ (Rol)  
+Nombre _____________________ (Rol)  
+Nombre _____________________ (Rol)  
+Nombre _____________________ (Rol)  
 
 ---
 
