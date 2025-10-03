@@ -43,14 +43,14 @@
 
 ---
 
-## 👥 Participantes Convocados  
+##  Participantes Convocados  
 
-Nombre _____________________ (Rol)  
-Nombre _____________________ (Rol)  
-Nombre _____________________ (Rol)  
+Nombre Andrés Camilo Cataño  
+Nombre Isabella Pino Mosquera
+
 
 ---
 
-**Firma del convocante:** Carlas Andrea Veragara Romero 
+**Firma del convocante:** Carlas Andrea Vergara Romero 
 
 
