@@ -13,7 +13,7 @@
 
 ---
 
-## Orden del Día  
+## 📋 Orden del Día  
 
 1. Bienvenida y presentación de los participantes  
    - Breve introducción de cada integrante  
