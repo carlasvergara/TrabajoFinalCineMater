@@ -1,7 +1,7 @@
 #  📑 Acta de Convocatoria de Reunión  
 
 **Proyecto:** Cinema Universitario CineMáter
-**Fecha de Convocatoria:** 29 de septiembre de 2025  
+**Fecha de Convocatoria:** 23 de septiembre de 2025  
 **Hora:** 5:00 pm  
 **Medio:** Presencial  
 
