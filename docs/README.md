@@ -7,13 +7,13 @@
 ## 👥 Integrantes  
 
 ### **Carlas Andrea Vergara Romero**  
-Tengo 25 años, trabajo tiempo completo en la Corporación Parque Explora como auxiliar administrativa y en mis tiempos libres me gusta viajar, generalmente lo hago en mi moto.  
+-  Tengo 25 años, trabajo tiempo completo en la Corporación Parque Explora como auxiliar administrativa y en mis tiempos libres me gusta viajar, generalmente lo hago en mi moto.  
 Escucho música gran parte del día mientras trabajo. Sé hablar portugués y amo los gatos.  
 
 ---
 
 ### **Isabella Pino Mosquera**  
-X  
+-  Tengo 19 años y casi siempre en mis tiempos libres juego tenis de campo, cocino y resuelvo cubos de rubik. Me gustan mucho los perros y soy fanática del cine.
 
 ---
 
@@ -31,7 +31,7 @@ Estudié los seis niveles de portugués que ofrece la universidad en el programa
 ---
 
 ### **Isabella Pino Mosquera**  
-X  
+-  Actualmente soy estoy estudiante de ingeniería industrial de tercer semestre. Estudié inglés en la Universidad Eafit y me gradué con un nivel B1.
 
 ---
 
