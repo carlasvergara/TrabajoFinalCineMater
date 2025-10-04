@@ -4,7 +4,7 @@
 
 ---
 
-## 👥 Integrantes  
+## 1. 👥 Integrantes  
 
 ### **Carlas Andrea Vergara Romero**  
 -  Tengo 25 años, trabajo tiempo completo en la Corporación Parque Explora como auxiliar administrativa y en mis tiempos libres me gusta viajar, generalmente lo hago en mi moto.  
@@ -22,7 +22,7 @@ X
 
 ---
 
-## 🎓 Vínculos Académicos  
+## 2. 🎓 Vínculos Académicos  
 
 ### **Carlas Andrea Vergara Romero**  
 Soy estudiante de Ingeniería Industrial de quinto semestre (aunque estoy viendo una materia de tercer semestre 😅).  
@@ -40,7 +40,7 @@ X
 
 ---
 
-## 🎬 Nombre del Proyecto y Detalles  
+## 3. 🎬 Nombre del Proyecto y Detalles  
 
 ### **Cine Universitario – CineMáter**  
 
@@ -51,7 +51,7 @@ Los datos generados se almacenarán y exportarán en formato **CSV**, garantizan
 
 ---
 
-## ⚖️ Licencia del Software  
+## 4. ⚖️ Licencia del Software  
 
 [CineMáter](https://github.com/carlasvergara/TrabajoFinalCineMater) © 2025 by [Carlas Andrea Vergara Romero](https://github.com/carlasvergara)  
 is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
@@ -62,7 +62,7 @@ is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-s
 
 ---
 
-## 🎯 Reporte de Visión – Cinema Universitario “CineMáter”  
+## 5. 🎯 Reporte de Visión – Cinema Universitario “CineMáter”  
 
 El **Cinema Universitario – CineMáter** es un software desarrollado en **Python** que gestiona las funciones básicas de un cine universitario.  
 Permite registrar usuarios, realizar y cancelar reservas, aplicar tarifas diferenciadas según el tipo de público y generar reportes administrativos.  
@@ -71,7 +71,7 @@ A través de una interfaz de consola amigable y la exportación de datos en form
 
 ---
 
-## ⚙️ Especificación de Requisitos  
+## 6. ⚙️ Especificación de Requisitos  
 
 ### **Requisitos Funcionales**  
 
@@ -140,7 +140,7 @@ Los requisitos no funcionales establecen los criterios de calidad y desempeño d
 
 ---
 
-## 🧭 Plan de Proyecto  
+## 7. 🧭 Plan de Proyecto  
 
 ### **Actividades, Cronograma y Presupuesto del Proyecto**  
 
