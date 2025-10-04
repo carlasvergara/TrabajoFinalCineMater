@@ -1,4 +1,4 @@
-#  Acta de Convocatoria de Reunión  
+#  📑 Acta de Convocatoria de Reunión  
 
 **Proyecto:** Cinema Universitario CineMáter
 **Fecha de Convocatoria:** 29 de septiembre de 2025  
@@ -43,7 +43,7 @@
 
 ---
 
-##  Participantes Convocados  
+##  👥 Participantes Convocados  
 
 Nombre: Andrés Camilo Cataño  
 Nombre: Isabella Pino Mosquera
