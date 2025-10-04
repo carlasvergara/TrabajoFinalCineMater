@@ -62,7 +62,7 @@ Nombre: Isabella Pino Mosquera
 
 # 🤝 Acta de Colaboración  
 
-**Proyecto:** Cinema Universitario  
+**Proyecto:** Cinema Universitario CineMáter   
 **Curso:** Algoritmia y Programación – 2025-II  
 **Profesor:** Julián Andrés Castillo  
 **Fecha de Convocatoria:** 23 de septiembre de 2025  
@@ -113,7 +113,7 @@ Los integrantes acuerdan regirse por estas normas de trabajo en equipo, fomentan
 ---
 # 📑 Acta de Entendimiento  
 
-**Proyecto:** Cinema Universitario  
+**Proyecto:** Cinema Universitario CineMáter  
 **Curso:** Algoritmia y Programación – 2025-II  
 **Profesor:** Julián Andrés Castillo  
 **Fecha de Convocatoria:** 30 de septiembre de 2025  
@@ -164,7 +164,7 @@ Los integrantes aprueban el Acta de Entendimiento como documento base del proyec
 
 # 🧾 Acta de Responsabilidades  
 
-**Proyecto:** Cinema Universitario  
+**Proyecto:** Cinema Universitario CineMáter   
 **Curso:** Algoritmia y Programación – 2025-II  
 **Profesor:** Julián Andrés Castillo  
 **Fecha de Convocatoria:** 02 de octubre de 2025  
@@ -193,7 +193,7 @@ Los integrantes aprueban el Acta de Entendimiento como documento base del proyec
 
 ## 📝 Conclusión  
 Cada integrante acepta la responsabilidad asignada y se compromete a cumplir los plazos establecidos.  
-El grupo acuerda mantener una comunicación constante y transparente para garantizar el éxito del proyecto *Cinema Universitario UdeA*.  
+El grupo acuerda mantener una comunicación constante y transparente para garantizar el éxito del proyecto *Cinema CineMáter*.  
 
 ---
 
