@@ -1,9 +1,13 @@
 #  📑 Acta de Convocatoria de Reunión  
 
-**Proyecto:** Cinema Universitario CineMáter
+
+**Proyecto:** Cinema Universitario CineMáter 
+**Curso:** Algoritmia y Programación – 2025-II  
+**Profesor:** Julián Andrés Castillo  
 **Fecha de Convocatoria:** 19 de septiembre de 2025  
-**Hora:** 5:00 pm  
-**Medio:** Presencial  
+**Hora:** 6:00 pm  
+**Medio:** Virtual  
+
 
 **Convoca:** Carlas Andrea Vergara Romero  
 
