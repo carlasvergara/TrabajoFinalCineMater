@@ -47,5 +47,3 @@ Los integrantes acuerdan regirse por estas normas de trabajo en equipo, fomentan
 - **Andrés Camilo Cataño**  
 - **Carlas Andrea Vergara Romero**  
 
----
----
