@@ -46,5 +46,3 @@ Los integrantes aprueban el Acta de Entendimiento como documento base del proyec
 - **Carlas Andrea Vergara Romero**  
 
 
----
----
