@@ -25,7 +25,7 @@ X
 ## 2. 🎓 Vínculos Académicos  
 
 ### **Carlas Andrea Vergara Romero**  
-Soy estudiante de Ingeniería Industrial de quinto semestre (aunque estoy viendo una materia de tercer semestre 😅).  
+- Soy estudiante de Ingeniería Industrial de quinto semestre (aunque estoy viendo una materia de tercer semestre 😅).  
 Estudié los seis niveles de portugués que ofrece la universidad en el programa Multilingua, me gusta liderar equipos y mantener una comunicación asertiva con los demás.  
 
 ---
