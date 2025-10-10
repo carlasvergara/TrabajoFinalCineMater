@@ -170,7 +170,8 @@ Las actividades se estructuran de acuerdo con las etapas de planeación, desarro
 El siguiente diagrama representa visualmente la planificación semanal del proyecto, con las responsabilidades distribuidas entre los tres integrantes y las entregas señaladas.  
 
 📊 **Archivo:**  
-`entregables/graficos/Diagrama_Gantt_Semanal_CinemaUdeA.png`  
+![Diagrama](Diagrama_Gantt_Semanal_CinemaUdeA.png)
+
 
 ---
 
