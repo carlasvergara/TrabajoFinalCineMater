@@ -49,6 +49,9 @@ El sistema permitirá a los usuarios seleccionar libremente entre **121 asientos
 Además, gestionará tarifas diferenciadas según el tipo de usuario —estudiantes, docentes, administrativos, personal interno y público externo—, ofreciendo una interfaz de consola intuitiva y funcional.  
 Los datos generados se almacenarán y exportarán en formato **CSV**, garantizando un manejo claro y ordenado de la información.  
 
+![Logo CineMáter](imagencinema.png)
+
+
 ---
 
 ## 4. ⚖️ Licencia del Software  
