@@ -18,8 +18,8 @@ Escucho música gran parte del día mientras trabajo. Sé hablar portugués y am
 ---
 
 ### **Andrés Camilo Cataño**  
-X  
-
+-  Soy Andrés, tengo 21 años y soy adicto a los videojuegos, me gusta mucho la filmografía y me encanta pasar tiempo con mi familia. Mi sueño es llegar a ser piloto comercial algún día ya que me fascinaría conocer el mundo.
+ 
 ---
 
 ## 2. 🎓 Vínculos Académicos  
@@ -36,7 +36,7 @@ Estudié los seis niveles de portugués que ofrece la universidad en el programa
 ---
 
 ### **Andrés Camilo Cataño**  
-X  
+-  Estudiante de pregrado de Ingeniería Industrial cursando 4to semestre. Técnico en sistemas y aunque no tenga algún certificado me considero tener un nivel decente de inglés.  
 
 ---
 
