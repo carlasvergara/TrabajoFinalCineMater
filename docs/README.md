@@ -182,10 +182,10 @@ El grupo está conformado por **tres estudiantes**, cada uno con una dedicación
 
 | **Actividad** | **Horas por integrante** | **Total grupo (3 integrantes)** |
 |----------------|--------------------------|---------------------------------|
-| Planeación y elaboración de actas | 6 | 18 |
-| Análisis y diseño del sistema | 8 | 24 |
-| Desarrollo del código y pruebas | 18 | 54 |
-| Validaciones y documentación | 10 | 30 |
+| Planeación y elaboración de actas | 4 | 12 |
+| Análisis y diseño del sistema | 7 | 21 |
+| Desarrollo del código y pruebas | 20 | 60 |
+| Validaciones y documentación | 11 | 33 |
 | Sustentación y ajustes finales | 8 | 24 |
 | **Total estimado** | **50 horas** | **150 horas** |
 
