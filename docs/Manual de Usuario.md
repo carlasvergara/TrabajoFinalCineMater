@@ -73,7 +73,7 @@ Esta opción es de uso exclusivo para los administradores de CineMáter. Al sele
 - Promedio de venta diario
 - Lista de usuarios
 - Usuario con mayor y menor cantidad de reservas
-- 
+  
 
 ➡️ Al final del menú de administrador, se encuentra una opción que permite volver al menú principal de CineMáter.
 
